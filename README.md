@@ -3,4 +3,5 @@
 
 [Play Nocturnal on itch.io](https://shaneb0105.itch.io/nocturnal)
 
-[![Watch the full game](https://img.youtube.com/vi/CoGb4nvq6aQ?si=sWiH_Z2sQcy59FDd/0.jpg)](https://www.youtube.com/watch?v=CoGb4nvq6aQ?si=sWiH_Z2sQcy59FDd)
+[![Watch the full game](https://img.youtube.com/vi/CoGb4nvq6aQ/0.jpg)](https://www.youtube.com/watch?v=CoGb4nvq6aQ)
+
