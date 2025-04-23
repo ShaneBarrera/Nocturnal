@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Collectable
+  - Enemy
+  - Flashlight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1608645101
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2100518311
+    locked: 0
+  - name: Props
+    uniqueID: 2483004653
+    locked: 0
+  - name: Collectables
+    uniqueID: 2031728855
+    locked: 0
+  - name: BehindPlayer
+    uniqueID: 108743843
+    locked: 0
+  - name: Player
+    uniqueID: 1576023527
+    locked: 0
+  - name: AbovePlayer
+    uniqueID: 3767824133
+    locked: 0
+  - name: Doors
+    uniqueID: 104920245
+    locked: 0
+  - name: Fog
+    uniqueID: 241102317
+    locked: 0
+  - name: ShadowBlocker
+    uniqueID: 3379500143
+    locked: 0
+  m_RenderingLayers:
+  - Default

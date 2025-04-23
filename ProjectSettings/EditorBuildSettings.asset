@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Scenes/Screens/StartMenu.unity
+    guid: 75aa063ac8c1c3f418ed38c784ae3dc3
+  - enabled: 1
+    path: Assets/_Project/Scenes/Screens/IntroScene.unity
+    guid: 3728de22da96c3e49b3a50d83ee85e34
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonRoom.unity
+    guid: c61af27e6d625704fa873f16ca2956d4
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonHallway.unity
+    guid: a141419f8f6720e4b82f69a58b9a0d02
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonCells.unity
+    guid: 22ccc60c98a13234e8bd01c84c97fd7a
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonBathroom.unity
+    guid: 4a2520c6bcdf98145ae080a843b52756
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonCellsRevisited1.unity
+    guid: 70f5fcc624ed4814abfb8092cdf86e47
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonCorridor.unity
+    guid: ae59bdd92dc9ff040b7fc5a0d15f23ce
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonTortureRoom.unity
+    guid: ef81bfb6410c3dd45bb219955b4e0625
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonCorridorRevisited.unity
+    guid: 03dd242fa02cb8e49b809f3955f338c8
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonMirrorRoom.unity
+    guid: d9a86041a93ebe54eb41c1be03c8467d
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonBloodRoom.unity
+    guid: fd7e59a49badc7a46a517525f9b24d3c
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonSwitchRoom.unity
+    guid: 91a3f83f1862b5e41867a7b120a7b4f9
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonBloodRoomRevisited.unity
+    guid: 23c1beda5dbaa3a4da840f381c226403
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonMaze.unity
+    guid: 22afe5f516ecc3747aa04eac5580d994
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonCellsRevisited2.unity
+    guid: 992f1437d4820484ea38209942703e31
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonBathroomRevisited1.unity
+    guid: 835365c399ccd7c4c8eecff5744a30aa
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonCave.unity
+    guid: 3696d6c8f9bbe4440974df2f0045bf52
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonBathroomRevisited2.unity
+    guid: e623c305bf10f60428297aa463322aae
+  - enabled: 1
+    path: Assets/_Project/Scenes/Dungeon/DungeonBodyRoom.unity
+    guid: 0d425022d999e2a43a10c60769944f26
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionLobby.unity
+    guid: 3d7d21f5a6b4b4a459a784314749e0b2
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionCorridor.unity
+    guid: 3326ffb54d630104aabc726acb4ae116
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionHallway.unity
+    guid: 43e58eb1e906e7343ad05ebc8bcb00f2
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionGuestRoom.unity
+    guid: c1d6ded51c8f2824b94fdde39cc6b459
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionBigRoom.unity
+    guid: d8b4c3875c89f6740be265e6bb2f33fc
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionBathroom.unity
+    guid: a310dade9985b86439af80f829fcc505
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionBigRoomRevisited.unity
+    guid: 017aac76242310b4db07d668d5f273fb
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionOutside.unity
+    guid: c11cc210b4a7623449d73a86158b13ce
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionMediaRoom.unity
+    guid: aa82b4186ad01bc43b989f8f36271f76
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionCasino.unity
+    guid: 86fab8d3b6e59174da57da41944e531d
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionMaze.unity
+    guid: 14b67f8697a0f7046acac97111c7c3c2
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionLobbyRevisited.unity
+    guid: f80d5a73f5378fe459a4bd4ab8c7b7db
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionCorridorRevisited.unity
+    guid: af84563796c924249b1665a22da9fe36
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionDiningRoom.unity
+    guid: 6fb8551e8c854cf44ae9a9c270d007e0
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionDarkRoom.unity
+    guid: dac305d2736ce554dbc13da946d68603
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionDiningRoomRevisited.unity
+    guid: 57b357a089f8a0a4fb7c4236de3c0eff
+  - enabled: 1
+    path: Assets/_Project/Scenes/Mansion/MansionGarage.unity
+    guid: 3c8d226a20c0c984d9dbceec65a3af0d
+  - enabled: 1
+    path: Assets/_Project/Scenes/Forest/BigForest.unity
+    guid: e2c5c536cf6d493469c36de1cc44af21
+  - enabled: 1
+    path: Assets/_Project/Scenes/Screens/EndGame.unity
+    guid: 2f22002a4f1b0dc469b16eba74714642
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
